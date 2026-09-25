@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+# Do not commit local secrets or service keys.
